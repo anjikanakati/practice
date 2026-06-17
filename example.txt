@@ -1,2 +1,0 @@
-hi helo 
-welcome to example of git
